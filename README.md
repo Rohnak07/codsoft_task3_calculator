@@ -18,7 +18,7 @@ An **interactive and responsive calculator** built using **HTML, CSS, and JavaSc
 ## 📸 Screenshots  
 
 ### 🏠 Calculator UI & Performing Operations 
-![Calculator](screenshots/calculator.png)  
+![Calculator](screenshot/image.png)  
 
 ---
 
