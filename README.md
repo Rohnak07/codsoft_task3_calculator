@@ -36,6 +36,16 @@ An **interactive and responsive calculator** built using **HTML, CSS, and JavaSc
 
 
 ---
+<br>
+
+## 🚀 Live Demo  
+
+👉 [Click here to open the Calculator Project](https://rohnak07.github.io/codsoft_task3_calculator/)  
+
+
+<br>
+
+---
 
 ## 🖥️ How to Run  
 
